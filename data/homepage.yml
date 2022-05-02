@@ -1,0 +1,105 @@
+banner:
+  title: "Hello, from Linovate"
+  description: "We provide over 15 years of excellence in Cloud Engineering, Automation, DevOps, Cybersecurity and Systems Engineering"
+  image:
+    alt: "Linovate Corporate Logo"
+    x: "logo.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    alt: "Showcase keyboard and mouse image"
+    x: "img/showcase/showcase-mobile.jpg"
+
+# about
+about:
+  enable: true
+  title: "Who are we?"
+  content: '<p class="lead">
+    Linovate deliver technical excellence at the high end of the IT sphere; specifically
+    focusing on consulting, cloud computing and cybersecurity. Thats what gets us up in the
+    morning.
+    </p>
+    <p class="lead">
+    My area of focus lies in designing web and mobile products, user research as well as
+    leading of design & front-end teams. I enjoy designing and coding the UI as much as
+    talking with users to iterate and improve the experiences that reach business goals.
+    </p>'
+  image:
+    x: "me.jpeg"
+    _2x: "img/who-am-i/user-picture@2x.png"
+
+services:
+  description: "Linovate deliver technical excellence at the high end of the IT sphere; specifically focusing on consulting, cloud computing and cybersecurity. Thats what gets us up in the morning."
+  items:
+    - title: "Scripting/Automation"
+      subtitle: "Powershell Bash Python Perl Terraform Ansible"
+      icon: "img/services/automation.png"
+
+    - title: "Cybersecurity"
+      subtitle: "Need help remediating the criticial aspect of your recent security audit?"
+      icon: "img/services/cybersecurity.png"
+
+    - title: "Systems Engineering"
+      subtitle: "Systems Administration, Project Managed Upgrades"
+      icon: "img/services/systemseng.png"
+
+    - title: "Cloud Migrations"
+      subtitle: "On-Prem to PAAS and IAAS on AWS"
+      icon: "img/services/cloudmig.png"
+
+clients:
+  organisations:
+    - name: "Investec"
+      url: "https://www.investec.com"
+      logo:
+        x: "img/clients/investec.png"
+        _2x: "img/clients/asgardia@2x.png"
+
+    - name: "Experian"
+      url: "https://www.experian.com"
+      logo:
+        x: "img/clients/experian.png"
+        _2x: "img/clients/earth-2@2x.png"
+
+    - name: "Sports Interactive"
+      url: "https://sigames.com"
+      logo:
+        x: "img/clients/si.png"
+        _2x: "img/clients/goldline@2x.png"
+
+    - name: "The Insolvency Service"
+      url: "https://www.gov.uk/government/organisations/insolvency-service"
+      logo:
+        x: "img/clients/insolvency.png"
+        _2x: "img/clients/kanba@2x.png"
+
+    - name: "Wejo"
+      url: "https://wejo.com"
+      logo:
+        x: "img/clients/wejo.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+
+    - name: "Digital Context"
+      url: "https://www.digitalcontext.rocks"
+      logo:
+        x: "img/clients/dcl.png"
+        _2x: "img/clients/ztos@2x.png"
+
+testimonial:
+  items:
+    - name: "Umer Ahmed"
+      position: "Sports Interactive, Lead DevOps"
+      content: "Mark helped us transition from managing Jenkins as Code as a collection of groovy scripts to Jenkins As Code managed with Ansible. As well as Jenkins builders managed via Ansible. He delivered both projects well on time and assumed end-to-end ownership. Delivered workshops and trainings to handover both projects nicely to the rest of the team"
+
+    - name: "Danny Roberts"
+      position: "DJR Tech Limited, Director"
+      content: "As Mark worked primarily on security related efforts within Experian we had cause to work together on a number of occasions to ensure the project I was working on was compliant, had good security practises and to share information. "
+
+    - name: "Chris Nelson"
+      position: "Mobile Fun Limited, Head of IT"
+      content: "Mark is extremely an effective SysAdmin and DevOps engineer. What he doesn't know about building and administering linux systems isn't worth knowing. Projects he worked on when working with me ranged from building and securing linux-based infrastructures (both manually and via puppet manifest control) to firewall configuration and installation in a busy datacentre with minimal downtime and cost to the company. I cannot recommend Mark highly enough for the quality of his work "
+
+
+contact:
+  form:
+    method: "POST"
+    action: "#"

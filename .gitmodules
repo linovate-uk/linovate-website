@@ -1,3 +1,6 @@
 [submodule "themes/raditian"]
 	path = themes/raditian
 	url = git@github.com:radity/raditian-free-hugo-theme.git
+[submodule "themes/linovate"]
+	path = themes/linovate
+	url = git@github.com:linovate-mark/linovate-hugo-theme.git

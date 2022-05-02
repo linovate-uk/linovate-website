@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://linovate.co.uk"
+languageCode = "en-gb"
+theme = "linovate"
+
+[params]
+
+sections = ["banner", "services", "clients", "testimonial", "contact"]
