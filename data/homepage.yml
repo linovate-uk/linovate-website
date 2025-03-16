@@ -3,29 +3,7 @@ banner:
   description: "We provide over 15 years of excellence in Cloud Engineering, Automation, DevOps, Cybersecurity and Systems Engineering"
   image:
     alt: "Linovate Corporate Logo"
-    x: "logo.png"
-    _2x: "img/showcase/showcase@2x.png"
-  imageMobile:
-    alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase-mobile.jpg"
-
-# about
-about:
-  enable: true
-  title: "Who are we?"
-  content: '<p class="lead">
-    Linovate deliver technical excellence at the high end of the IT sphere; specifically
-    focusing on consulting, cloud computing and cybersecurity. Thats what gets us up in the
-    morning.
-    </p>
-    <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
-    </p>'
-  image:
-    x: "me.jpeg"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    file: "logo.png"
 
 services:
   description: "Linovate deliver technical excellence at the high end of the IT sphere; specifically focusing on consulting, cloud computing and cybersecurity. Thats what gets us up in the morning."
@@ -50,39 +28,27 @@ clients:
   organisations:
     - name: "Investec"
       url: "https://www.investec.com"
-      logo:
-        x: "img/clients/investec.png"
-        _2x: "img/clients/asgardia@2x.png"
+      logo: "img/clients/investec.png"
 
     - name: "Experian"
       url: "https://www.experian.com"
-      logo:
-        x: "img/clients/experian.png"
-        _2x: "img/clients/earth-2@2x.png"
+      logo: "img/clients/experian.png"
 
     - name: "Sports Interactive"
       url: "https://sigames.com"
-      logo:
-        x: "img/clients/si.png"
-        _2x: "img/clients/goldline@2x.png"
+      logo: "img/clients/si.png"
 
     - name: "The Insolvency Service"
       url: "https://www.gov.uk/government/organisations/insolvency-service"
-      logo:
-        x: "img/clients/insolvency.png"
-        _2x: "img/clients/kanba@2x.png"
+      logo: "img/clients/insolvency.png"
 
     - name: "Wejo"
       url: "https://wejo.com"
-      logo:
-        x: "img/clients/wejo.png"
-        _2x: "img/clients/zoo-tv@2x.png"
+      logo: "img/clients/wejo.png"
 
     - name: "Digital Context"
       url: "https://www.digitalcontext.rocks"
-      logo:
-        x: "img/clients/dcl.png"
-        _2x: "img/clients/ztos@2x.png"
+      logo: "img/clients/dcl.png"
 
 testimonial:
   items:
