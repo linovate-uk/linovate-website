@@ -26,6 +26,11 @@ services:
 
 clients:
   organisations:
+
+    - name: "Disclosure Scotland"
+      url: "https://www.disclosure.gov.scot"
+      logo: "img/clients/disclosure.png"
+
     - name: "Investec"
       url: "https://www.investec.com"
       logo: "img/clients/investec.png"
