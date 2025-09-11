@@ -11,18 +11,74 @@ services:
     - title: "Scripting/Automation"
       subtitle: "Powershell Bash Python Perl Terraform Ansible"
       icon: "img/services/automation.png"
+      description: "Transform your IT operations with intelligent automation solutions that reduce manual tasks, minimize errors, and accelerate deployment cycles."
+      details: "Our automation expertise spans across multiple platforms and technologies. We design and implement comprehensive automation strategies that streamline your infrastructure management, application deployment, and operational workflows."
+      methodologies:
+        - "Infrastructure as Code (IaC) with Terraform and Ansible"
+        - "CI/CD pipeline automation and optimization"
+        - "Configuration management and compliance automation"
+        - "Monitoring and alerting automation"
+        - "Backup and disaster recovery automation"
+      benefits:
+        - "Reduced manual errors and increased reliability"
+        - "Faster deployment cycles and improved efficiency"
+        - "Consistent environments across development and production"
+        - "Enhanced compliance and audit capabilities"
+        - "Cost reduction through optimized resource utilization"
 
     - title: "Cybersecurity"
       subtitle: "Need help remediating the criticial aspect of your recent security audit?"
       icon: "img/services/cybersecurity.png"
+      description: "Strengthen your security posture with comprehensive cybersecurity solutions designed to protect your infrastructure, data, and business operations."
+      details: "Our cybersecurity services help organizations identify vulnerabilities, implement robust security controls, and maintain compliance with industry standards. We provide end-to-end security solutions tailored to your specific risk profile and business requirements."
+      methodologies:
+        - "Security assessment and vulnerability analysis"
+        - "Penetration testing and red team exercises"
+        - "Security architecture design and implementation"
+        - "Incident response planning and execution"
+        - "Compliance auditing and remediation"
+      benefits:
+        - "Enhanced protection against cyber threats"
+        - "Improved compliance with security standards"
+        - "Reduced risk of data breaches and security incidents"
+        - "Better incident response capabilities"
+        - "Increased stakeholder confidence and trust"
 
     - title: "Systems Engineering"
       subtitle: "Systems Administration, Project Managed Upgrades"
       icon: "img/services/systemseng.png"
+      description: "Optimize your IT infrastructure with expert systems engineering services that ensure reliability, performance, and scalability for your business-critical systems."
+      details: "Our systems engineering approach combines deep technical expertise with project management best practices. We handle complex infrastructure projects from planning through implementation, ensuring minimal disruption to your business operations."
+      methodologies:
+        - "System architecture design and optimization"
+        - "Project-managed infrastructure upgrades"
+        - "Performance tuning and capacity planning"
+        - "High availability and disaster recovery design"
+        - "System monitoring and maintenance strategies"
+      benefits:
+        - "Improved system reliability and uptime"
+        - "Enhanced performance and scalability"
+        - "Reduced maintenance overhead and costs"
+        - "Better resource utilization and efficiency"
+        - "Proactive issue prevention and resolution"
 
     - title: "Cloud Migrations"
       subtitle: "On-Prem to PAAS and IAAS on AWS"
       icon: "img/services/cloudmig.png"
+      description: "Seamlessly migrate your infrastructure to the cloud with our proven migration methodologies that minimize risk and maximize the benefits of cloud computing."
+      details: "Our cloud migration services help organizations transition from on-premises infrastructure to AWS cloud platforms. We provide comprehensive migration planning, execution, and optimization services to ensure a smooth transition with minimal business disruption."
+      methodologies:
+        - "Cloud readiness assessment and planning"
+        - "Application and data migration strategies"
+        - "Infrastructure as Code (IaC) implementation"
+        - "Cloud security and compliance configuration"
+        - "Performance optimization and cost management"
+      benefits:
+        - "Reduced infrastructure costs and improved scalability"
+        - "Enhanced business agility and faster time-to-market"
+        - "Improved disaster recovery and business continuity"
+        - "Better resource utilization and operational efficiency"
+        - "Access to latest cloud technologies and services"
 
 clients:
   organisations:
