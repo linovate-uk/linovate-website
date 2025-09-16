@@ -8,8 +8,8 @@ banner:
 services:
   description: "Linovate deliver technical excellence at the high end of the IT sphere; specifically focusing on consulting, cloud computing and cybersecurity. Thats what gets us up in the morning."
   items:
-    - title: "Scripting/Automation"
-      subtitle: "Powershell Bash Python Perl Terraform Ansible"
+    - title: "Automation"
+      subtitle: "Accelerate Digital Transformation with Purpose-Built Automation"
       icon: "img/services/automation.png"
       description: "Transform your IT operations with intelligent automation solutions that reduce manual tasks, minimize errors, and accelerate deployment cycles."
       details: "Our automation expertise spans across multiple platforms and technologies. We design and implement comprehensive automation strategies that streamline your infrastructure management, application deployment, and operational workflows."
@@ -27,7 +27,7 @@ services:
         - "Cost reduction through optimized resource utilization"
 
     - title: "Cybersecurity"
-      subtitle: "Need help remediating the criticial aspect of your recent security audit?"
+      subtitle: "Strengthen Security, Minimize Risks"
       icon: "img/services/cybersecurity.png"
       description: "Strengthen your security posture with comprehensive cybersecurity solutions designed to protect your infrastructure, data, and business operations."
       details: "Our cybersecurity services help organizations identify vulnerabilities, implement robust security controls, and maintain compliance with industry standards. We provide end-to-end security solutions tailored to your specific risk profile and business requirements."
@@ -45,7 +45,7 @@ services:
         - "Increased stakeholder confidence and trust"
 
     - title: "Systems Engineering"
-      subtitle: "Systems Administration, Project Managed Upgrades"
+      subtitle: "Scalable Systems Engineering Solutions"
       icon: "img/services/systemseng.png"
       description: "Optimize your IT infrastructure with expert systems engineering services that ensure reliability, performance, and scalability for your business-critical systems."
       details: "Our systems engineering approach combines deep technical expertise with project management best practices. We handle complex infrastructure projects from planning through implementation, ensuring minimal disruption to your business operations."
@@ -63,7 +63,7 @@ services:
         - "Proactive issue prevention and resolution"
 
     - title: "Cloud Migrations"
-      subtitle: "On-Prem to PAAS and IAAS on AWS"
+      subtitle: "On-Prem to the Cloud"
       icon: "img/services/cloudmig.png"
       description: "Seamlessly migrate your infrastructure to the cloud with our proven migration methodologies that minimize risk and maximize the benefits of cloud computing."
       details: "Our cloud migration services help organizations transition from on-premises infrastructure to AWS cloud platforms. We provide comprehensive migration planning, execution, and optimization services to ensure a smooth transition with minimal business disruption."
